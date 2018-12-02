@@ -1,0 +1,6 @@
+/20181202-log4j-demo/.idea
+/20181202-log4j-demo/log4j/*.iml
+
+/20181202-log4j-demo/out/*
+/20181202-log4j-demo/logs/*
+/20181202-log4j-demo/log/*
